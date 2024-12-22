@@ -1,0 +1,14 @@
+E:\CSharp\POO\09_This\bin\Debug\net8.0\09_This.exe
+E:\CSharp\POO\09_This\bin\Debug\net8.0\09_This.deps.json
+E:\CSharp\POO\09_This\bin\Debug\net8.0\09_This.runtimeconfig.json
+E:\CSharp\POO\09_This\bin\Debug\net8.0\09_This.dll
+E:\CSharp\POO\09_This\bin\Debug\net8.0\09_This.pdb
+E:\CSharp\POO\09_This\obj\Debug\net8.0\09_This.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\POO\09_This\obj\Debug\net8.0\09_This.AssemblyInfoInputs.cache
+E:\CSharp\POO\09_This\obj\Debug\net8.0\09_This.AssemblyInfo.cs
+E:\CSharp\POO\09_This\obj\Debug\net8.0\09_This.csproj.CoreCompileInputs.cache
+E:\CSharp\POO\09_This\obj\Debug\net8.0\09_This.dll
+E:\CSharp\POO\09_This\obj\Debug\net8.0\refint\09_This.dll
+E:\CSharp\POO\09_This\obj\Debug\net8.0\09_This.pdb
+E:\CSharp\POO\09_This\obj\Debug\net8.0\09_This.genruntimeconfig.cache
+E:\CSharp\POO\09_This\obj\Debug\net8.0\ref\09_This.dll
